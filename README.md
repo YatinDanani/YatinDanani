@@ -25,8 +25,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=YatinDanani&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=YatinDanani&icon=10&color=4)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🔝 Top Contributed Repo
