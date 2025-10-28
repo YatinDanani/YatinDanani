@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- 🟢 Animated Neon Wave Border Top -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=200&section=header&animation=fadeIn" width="100%" style="transform: rotate(180deg);" />
+  <!-- ⚡ Animated Cyber Circuit Top -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="cyber circuit animation"/>
 
   <br/><br/><br/>
 
@@ -136,7 +136,7 @@
 
 <br/><br/><br/>
 
-<!-- 🟢 Animated Neon Wave Border Bottom -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=39FF14&height=200&section=footer&animation=fadeIn" width="100%"/>
+  <!-- ⚡ Animated Cyber Circuit Bottom -->
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="cyber circuit animation"/>
 
 </div>
