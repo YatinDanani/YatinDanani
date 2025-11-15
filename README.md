@@ -85,6 +85,8 @@ Outside academics, I'm a soccer enthusiast. Playing soccer has strengthened my t
 
 ## What Makes Me Different
 
+<div align="center">
+
 <table>
 <tr>
 <td width="100%">
@@ -108,6 +110,8 @@ Competitive Spirit
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
