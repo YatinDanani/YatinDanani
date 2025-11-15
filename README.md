@@ -1,7 +1,12 @@
 <div align="center">
 
+<!-- Snake Animation Header -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation"/>
+
+<br/><br/>
+
 <!-- Custom Hero Banner with Soccer Field Theme -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a4d1a,50:2d7a2d,100:1a4d1a&height=180&section=header&text=Yatin%20Danani&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Computer%20Science%20Student%20|%20Python%20Developer%20|%20Soccer%20Enthusiast&descAlignY=51&descAlign=50"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=1a4d1a&height=180&section=header&text=Yatin%20Danani&fontSize=42&fontColor=ffffff&fontAlignY=50&desc=Computer%20Science%20Student%20|%20Python%20Developer%20|%20Soccer%20Enthusiast&descAlignY=65&descAlign=50"/>
 
 <!-- Dynamic Typing Animation -->
 <a href="https://git.io/typing-svg">
@@ -73,9 +78,6 @@ Outside academics, I'm a soccer enthusiast. Playing soccer has strengthened my t
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 </div>
 
