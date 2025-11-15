@@ -206,7 +206,7 @@ Full-Stack Development - Building scalable web applications
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=YatinDanani&label=Profile%20Views&color=2d7a2d&icon=5&pretty=true)
 
-<br/>
+<br/><br/>
 
 ### "Keep coding, stay curious, and play soccer!"
 
