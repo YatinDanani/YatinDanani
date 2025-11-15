@@ -16,9 +16,8 @@
 <br/>
 
 <!-- Quick Stats Badges -->
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatin-danani-58191319a)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatindanani01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatin-danani-58191319a)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatindanani2520@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YatinDanani)
 
 </div>
@@ -195,8 +194,8 @@ Full-Stack Development - Building scalable web applications
 
 ### Reach Out
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yatin-danani-58191319a)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatindanani01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yatin-danani-58191319a)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatindanani2520@gmail.com)
 
 </div>
 
@@ -206,7 +205,11 @@ Full-Stack Development - Building scalable web applications
 
 ![Visitor Count](https://visitcount.itsvg.in/api?id=YatinDanani&label=Profile%20Views&color=2d7a2d&icon=5&pretty=true)
 
+<br/>
+
 ### "Keep coding, stay curious, and play soccer!"
+
+<br/>
 
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
