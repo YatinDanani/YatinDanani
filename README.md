@@ -204,14 +204,6 @@ Full-Stack Development - Building scalable web applications
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=YatinDanani&label=Profile%20Views&color=2d7a2d&icon=5&pretty=true)
-
-<br/><br/>
-
-### "Keep coding, stay curious, and play soccer!"
-
-<br/>
-
 <!-- Snake Animation -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
