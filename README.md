@@ -169,6 +169,8 @@ Competitive Spirit
 
 **Soccer** - Playing matches, watching games, analyzing team tactics, and staying fit. Soccer has taught me the importance of teamwork, discipline, and strategic thinking, which directly translate to my approach in software development.
 
+**Film & Series** - I'm drawn to thrillers, true crime documentaries, and real-life stories that make you think. Recently, I've been exploring dystopian narratives that challenge perspectives on society and technology. There's something compelling about stories grounded in reality or plausible futures.
+
 ---
 
 ## Random Dev Quote
